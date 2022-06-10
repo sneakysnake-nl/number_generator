@@ -1,0 +1,43 @@
+body 
+{
+    background-color: rgb(178, 208, 253);
+}
+
+#Generate
+{
+    margin-top: 50px;
+    background-color: rgb(201, 211, 232);
+    border-width: 5px;
+    font-size: 400%;
+    border-radius: 100px;
+}
+
+#result_box
+{
+    background-color: rgb(121, 152, 255);
+    border-width: 2px;
+    font-size: xx-large;
+}
+
+.from
+{
+    font-size: 200%;
+}
+
+.to
+{
+    font-size: 200%;
+}
+
+.x1
+{
+    background-color: rgb(160, 185, 255);
+    font-size: 150%;
+}
+
+
+.disclaimer
+{
+    font-size: 150%;
+
+}
